@@ -120,3 +120,7 @@ button:hover{
 .spn{
     font-size: 25px;
 }
+
+.fa-solid fa-arrow-down{
+    color: #1be4e4;
+}
